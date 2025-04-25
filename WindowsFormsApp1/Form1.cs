@@ -17,7 +17,7 @@ namespace WindowsFormsApp1
 
             InitializeComponent();
 
-            //MessageBox.Show("Hi");
+            MessageBox.Show("Hi");
 
             textBox_print.Text = "이것은\r\n텍스트 박스\r\n입니다.";
         }
