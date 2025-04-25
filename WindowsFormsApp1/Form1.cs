@@ -17,9 +17,9 @@ namespace WindowsFormsApp1
 
             InitializeComponent();
 
-            MessageBox.Show("Hi Test 브랜치");
+            MessageBox.Show("jeonghun branch");
 
-            textBox_print.Text = "이것은\r\n텍스트 박스\r\n입니다.";
+            textBox_print.Text = "안녕하세요\r\n이정훈\r\n입니다.";
         }
     }
 }
